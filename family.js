@@ -1,2 +1,1 @@
-let word = "family";
-console.log("Hello World " + word);
+console.log("h1 ! AARTHI")
